@@ -1,6 +1,6 @@
-# Phenomic_selection for coffee
+# Phenomic Selection for coffee
 
-![Alt text](PS.png)
+![Codes and data](PS.png)
 
 
 This repository contains the codes and data set used to compare phenomic and genomic selection models to predict coffee yield.
